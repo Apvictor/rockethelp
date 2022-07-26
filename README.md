@@ -1,4 +1,4 @@
-Projeto desenvolvido na semana #IgniteLab da Rocketseat.
+##Projeto desenvolvido na semana **IgniteLab** da **Rocketseat**.
 Com algumas mudanças.
 
 ###Tecnologias usadas:
