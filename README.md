@@ -1,7 +1,6 @@
-##Projeto desenvolvido na semana **IgniteLab** da **Rocketseat**.
-Com algumas mudanças.
+## Projeto desenvolvido na semana **IgniteLab** da **Rocketseat**. Com algumas mudanças.
 
-###Tecnologias usadas:
+### Tecnologias usadas:
 - 👨‍💻 React Native
 - 📚 Biblioteca Native Base
 - 📚 Biblioteca Phosphor Icons
